@@ -1,7 +1,7 @@
 /*	$NetBSD: strptime.c,v 1.62 2017/08/24 01:01:09 ginsbach Exp $	*/
 /* http://cvsweb.netbsd.org/bsdweb.cgi/~checkout~/src/lib/libc/time/strptime.c?only_with_tag=HEAD
  * NetBSD implementation strptime().
- * Format decription: https://netbsd.gw.com/cgi-bin/man-cgi?strptime+3+NetBSD-current
+ * Format description: https://netbsd.gw.com/cgi-bin/man-cgi?strptime+3+NetBSD-current
 */
 /*-
  * Copyright (c) 1997, 1998, 2005, 2008 The NetBSD Foundation, Inc.
